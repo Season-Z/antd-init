@@ -18,7 +18,7 @@
   "dependencies": {
     "inquirer": "^1.0.0",
     "through2": "2.0.x",
-    "vinyl-fs": "^2.4.3",
+    "vinyl-fs": "^3.0.0",
     "which": "1.2.x"
   },
   "devDependencies": {
