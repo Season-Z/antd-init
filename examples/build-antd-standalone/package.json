@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "antd": "0.12.x",
-    "atool-build": "0.6.x",
+    "atool-build": "1.0.8",
     "babel-plugin-antd": "0.2.x",
     "es3ify-loader": "^0.1.0",
     "react": "0.14.x",
